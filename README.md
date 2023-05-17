@@ -1,5 +1,5 @@
 # Discret_Distribution
-Use python to experiment the graph of Discrete Distribution
+Use python to show the graph of Discrete Distribution
 
 1.Bernolli\
 ![image](https://github.com/Phillsu/Discret_Distribution/blob/main/pic/myplot.png)\
